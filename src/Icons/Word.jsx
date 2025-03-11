@@ -3,8 +3,8 @@ export function WordIcon(props) {
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 1024 1024"
-        width="3em"
-        height="3em"
+        width="1em"
+        height="1em"
         {...props}
       >
         <path

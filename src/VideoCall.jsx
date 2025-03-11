@@ -40,7 +40,7 @@ function VideoCall() {
                 fontSize: "20px",
                 fontWeight: "bold",
             }}>
-                LyfLeap
+                COLLAB NOW
             </Header>
             {/* Main Content */}
             <div style={{ backgroundColor: "white" }}>

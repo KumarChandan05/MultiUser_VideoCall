@@ -8,8 +8,6 @@ function App() {
   return (
     <>
     <VideoCall/>
-    {/* <DrawingApp/> */}
-    {/* <DocumentUploader/> */}
     </>
   )
 }
