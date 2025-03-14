@@ -1,4 +1,4 @@
-export function PdfIcon(props) {
+export function DocIcon(props) {
     return (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -6,6 +6,7 @@ export function PdfIcon(props) {
         width="1em"
         height="1em"
         {...props}
+        color="	#C8C8C8"
       >
         <path
           fill="none"

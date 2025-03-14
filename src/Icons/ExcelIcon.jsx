@@ -6,6 +6,7 @@ export function ExcelIcon(props) {
             width="1em"
             height="1em"
             {...props}
+            color="	#C8C8C8"
         >
             <path
                 fill="currentColor"
